@@ -1,0 +1,14 @@
+@media(max-width: 991px){
+#sidebar {
+	display: none;
+}
+
+}
+@media(max-width: 1400px){
+main.blyuda {
+	 min-height:1850px;
+}
+.wr-contacts {
+	width: 80%;
+}
+}
